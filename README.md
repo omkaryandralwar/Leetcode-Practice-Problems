@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
