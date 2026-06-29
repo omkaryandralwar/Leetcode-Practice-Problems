@@ -4,17 +4,19 @@ public:
         if(p.size()>s.size()) return {};
         if(p.empty() || s.empty()) return {};
         vector<int> freqP(26, 0);
+        vector<int> freqS(26, 0);
         vector<int> ans;
         for(int i=0;i<p.size();i++){
             freqP[p[i]-'a']++;
+            freqS[s[i]-'a']++;
         }
-        for(int i=0;i<=s.size()-p.size();i++){
-            vector<int> freqS(26, 0);
-            for(int j=0;j<p.size();j++){
-                freqS[s[i+j]-'a']++;
-            }
-            if(freqP == freqS) ans.push_back(i);
+        if(freqP==freqS) ans.push_back(0);
+        for(int i=p.size();i<s.size();i++){
+            freqS[s[i]-'a']++;
+            freqS[s[i-p.size()]-'a']--;
+            if(freqP==freqS) ans.push_back(i-p.size()+1);
         }
+
         return ans;
     }
 };
