@@ -23,12 +23,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0053-maximum-subarray/) | Medium |
+| [0075-sort-colors](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0169-majority-element/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -53,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
