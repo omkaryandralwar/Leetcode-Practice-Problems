@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Simulation
@@ -37,5 +38,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
