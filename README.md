@@ -24,4 +24,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 <!---LeetCode Topics End-->
