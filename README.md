@@ -11,10 +11,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0169-majority-element/) | Easy |
 ## Sorting
