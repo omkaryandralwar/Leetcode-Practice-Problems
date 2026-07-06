@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0076-minimum-window-substring/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 ## Sliding Window
@@ -93,4 +94,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0136-single-number/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
