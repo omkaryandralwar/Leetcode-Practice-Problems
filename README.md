@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0014-longest-common-prefix](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0076-minimum-window-substring](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0076-minimum-window-substring/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0053-maximum-subarray/) | Medium |
@@ -106,4 +108,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
