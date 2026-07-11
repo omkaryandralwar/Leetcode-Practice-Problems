@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0076-minimum-window-substring](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0076-minimum-window-substring/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0169-majority-element/) | Easy |
+| [0205-isomorphic-strings](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
