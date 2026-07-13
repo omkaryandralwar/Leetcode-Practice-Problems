@@ -117,4 +117,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0014-longest-common-prefix/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
