@@ -64,11 +64,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1929-concatenation-of-array](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
