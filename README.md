@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0645-set-mismatch/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1470-shuffle-the-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1929-concatenation-of-array](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1929-concatenation-of-array/) | Easy |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1929-concatenation-of-array](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Dynamic Programming
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
