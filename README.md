@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0645-set-mismatch](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0645-set-mismatch/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1470-shuffle-the-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -93,12 +94,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0645-set-mismatch](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0645-set-mismatch/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0169-majority-element/) | Easy |
+| [0645-set-mismatch](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0645-set-mismatch/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -108,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0136-single-number/) | Easy |
+| [0645-set-mismatch](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0645-set-mismatch/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
