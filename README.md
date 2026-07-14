@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0189-rotate-array/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -143,4 +145,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
