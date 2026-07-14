@@ -1,9 +1,7 @@
 class Solution {
 public:
-vector<int> temp;
     int climbStairs(int n) {
         if(n == 0 || n == 1) return 1;
-        if(temp.empty()) temp.resize(n+1, -1);
         // if(n == 0 || n == 1) return 1;
         // if(n < 0) return 0;
         // int ans = 0;
@@ -17,10 +15,13 @@ vector<int> temp;
         // ans+=a;
         // ans+=b;
         // temp[n]=ans;
-        temp[1] = temp[0] = 1;
+        int a = 1 , b = 1;
+        int c;
         for(int i=2;i<n+1;i++){
-            temp[i]=temp[i-1]+temp[i-2];
+            c = a+b;
+            a=b;
+            b=c;
         }
-        return temp[n];
+        return c;
     }
 };
