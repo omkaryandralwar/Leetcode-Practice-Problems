@@ -2,7 +2,6 @@ class Solution {
 public:
     vector<int> temp;
     int helper(vector<int>& nums, int i){
-        temp.resize(nums.size()+1, -1);
         if(i < 0) return 0;
         if(i == 0) return nums[0];
         if(temp[i]!=-1){
@@ -15,6 +14,7 @@ public:
     }
 
     int rob(vector<int>& nums) {
+        temp.resize(nums.size()+1, -1);
         return helper(nums, nums.size()-1);
     }
 };
