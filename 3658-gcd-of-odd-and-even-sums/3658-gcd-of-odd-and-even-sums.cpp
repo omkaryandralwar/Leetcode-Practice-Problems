@@ -2,11 +2,12 @@ class Solution {
 public:
     int gcdOfOddEvenSums(int n) {
         if(n<=1) return n;
-        int sumOdd=(n*(2+(n-1)*2))/2;
-        int sumEven=(n*(4+(n-1)*2))/2;
-        for(int i=sumOdd/2;i>0;i--){
-            if(sumOdd%i==0 && sumEven%i==0) return i;
+        int b=(n*(2+(n-1)*2))/2;
+        int a=(n*(4+(n-1)*2))/2;
+        while(b){
+           a = a%b;
+           swap(a, b) ;
         }
-        return 0;
+        return a;
     }
 };
