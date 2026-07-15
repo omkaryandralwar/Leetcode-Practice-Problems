@@ -6,7 +6,7 @@ public:
         int sumEven=(n*(4+(n-1)*2))/2;
         stack<int> even;
         stack<int> odd;
-        for(int i=1;i<=sumOdd;i++){
+        for(int i=1;i<=sumOdd/2;i++){
             if(sumOdd%i == 0) odd.push(i);
             if(sumEven%i == 0) even.push(i);
         }
