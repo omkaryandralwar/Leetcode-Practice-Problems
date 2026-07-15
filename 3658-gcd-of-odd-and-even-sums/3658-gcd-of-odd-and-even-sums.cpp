@@ -2,16 +2,8 @@ class Solution {
 public:
     int gcdOfOddEvenSums(int n) {
         if(n<=1) return n;
-        int sumOdd=0;
-        int oddn=1;
-        int sumEven=0;
-        int evenn=2;
-        for(int i=0;i<n;i++){
-            sumOdd+=oddn;
-            sumEven+=evenn;
-            oddn+=2;
-            evenn+=2;
-        }
+        int sumOdd=(n*(2+(n-1)*2))/2;
+        int sumEven=(n*(4+(n-1)*2))/2;
         stack<int> even;
         stack<int> odd;
         for(int i=1;i<=sumOdd;i++){
