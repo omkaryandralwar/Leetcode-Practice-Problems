@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0189-rotate-array/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1929-concatenation-of-array](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
@@ -160,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
