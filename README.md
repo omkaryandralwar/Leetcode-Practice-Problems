@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1903-largest-odd-number-in-string](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0645-set-mismatch/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
