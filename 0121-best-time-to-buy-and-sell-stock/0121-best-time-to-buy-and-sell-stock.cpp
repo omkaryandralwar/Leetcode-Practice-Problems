@@ -10,8 +10,8 @@ public:
                 sell=prices[i];
             }else if(sell<prices[i]){
                 sell=prices[i];
+                ans=max(ans, (sell-buy));
             }
-            ans=max(ans, (sell-buy));
         }
         return ans;
     }
