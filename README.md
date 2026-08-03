@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0645-set-mismatch](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0645-set-mismatch/) | Easy |
+| [0739-daily-temperatures](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0739-daily-temperatures/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0636-exclusive-time-of-functions/) | Medium |
+| [0739-daily-temperatures](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0739-daily-temperatures/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -177,5 +179,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0739-daily-temperatures](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 <!---LeetCode Topics End-->
