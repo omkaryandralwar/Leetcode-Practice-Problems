@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1470-shuffle-the-array/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1929-concatenation-of-array](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0636-exclusive-time-of-functions](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,4 +174,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 <!---LeetCode Topics End-->
