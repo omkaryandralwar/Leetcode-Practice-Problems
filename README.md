@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0053-maximum-subarray/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0136-single-number/) | Easy |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0169-majority-element/) | Easy |
@@ -181,4 +183,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
