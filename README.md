@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0645-set-mismatch/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0645-set-mismatch/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Counting
