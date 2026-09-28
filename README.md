@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0075-sort-colors/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0739-daily-temperatures](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0739-daily-temperatures/) | Medium |
@@ -184,10 +186,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0739-daily-temperatures](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
