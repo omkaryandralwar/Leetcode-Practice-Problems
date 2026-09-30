@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1929-concatenation-of-array](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1929-concatenation-of-array/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
@@ -197,4 +199,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 <!---LeetCode Topics End-->
