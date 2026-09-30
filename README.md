@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0739-daily-temperatures](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0739-daily-temperatures/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -202,5 +203,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
