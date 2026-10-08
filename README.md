@@ -209,4 +209,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
