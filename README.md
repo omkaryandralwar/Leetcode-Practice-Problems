@@ -218,4 +218,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/0176-second-highest-salary/) | Medium |
+| [1757-recyclable-and-low-fat-products](https://github.com/omkaryandralwar/Leetcode-Practice-Problems/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
